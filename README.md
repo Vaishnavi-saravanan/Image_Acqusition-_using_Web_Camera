@@ -103,20 +103,20 @@ cv2.destroyAllWindows()
 ```
 # Output
 # i) Write the frame as JPG image
-![Exp2](https://github.com/Vaishnavi-saravanan/Image_Acqusition-_using_Web_Camera/assets/118541897/675e43b3-e9df-4ce9-8ed1-c0011061ee8f)
 
+![di1](https://github.com/Vaishnavi-saravanan/Image_Acqusition-_using_Web_Camera/assets/118541897/3b68ac38-b860-49aa-a033-e16aa74ffd5f)
 
 # ii) Display the video
-![Ex2](https://github.com/Vaishnavi-saravanan/Image_Acqusition-_using_Web_Camera/assets/118541897/b095ce6e-fa59-46b4-a460-17633f32a3e6)
 
+![di2](https://github.com/Vaishnavi-saravanan/Image_Acqusition-_using_Web_Camera/assets/118541897/e7b659df-9b1b-482a-9dc1-eb42d3629b77)
 
 # iii) Display the video by resizing the window
+![di3](https://github.com/Vaishnavi-saravanan/Image_Acqusition-_using_Web_Camera/assets/118541897/a549ccf8-c710-40d1-9906-1f8be47b0ea6)
 
-![e1](https://github.com/Vaishnavi-saravanan/Image_Acqusition-_using_Web_Camera/assets/118541897/b68b03bd-44d3-4f71-b0aa-185c50e22f70)
 
 # iv) Rotate and display the video
 
-![e2](https://github.com/Vaishnavi-saravanan/Image_Acqusition-_using_Web_Camera/assets/118541897/1a9dd229-7e40-4356-9a0b-d9b4c3a3c647)
+![di4](https://github.com/Vaishnavi-saravanan/Image_Acqusition-_using_Web_Camera/assets/118541897/0ced0d7a-b8f7-4b59-a5c0-46373778cc3b)
 
 
 # Result:
